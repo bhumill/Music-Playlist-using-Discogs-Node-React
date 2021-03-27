@@ -1,2 +1,2 @@
-# w13-final-project-bhumil-sagar
+# w13-final-project-bhumil
 final project made in node react
