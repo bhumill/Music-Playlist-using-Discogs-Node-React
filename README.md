@@ -18,4 +18,6 @@ Users can create and save their playlist and can change and edit their playlist 
 # Database Used :
 Postgres
 
+# Working Functionality of the project :
 
+https://drive.google.com/file/d/12dN-Wcm4UcLDr13JiCLp1S9-sH7D5H6o/view?usp=sharing
